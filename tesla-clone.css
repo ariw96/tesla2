@@ -1,4 +1,4 @@
-:root {
+Skip to content Search or jump to… Pull requests Issues Marketplace Explore @ariw96 ariw96 / aritesla Public Code Issues Pull requests Actions Projects Wiki Security Insights Settings aritesla/css/tesla-clone.css @ariw96 ariw96 first commit Latest commit 3d3a7b7 11 hours ago History 1 contributor 265 lines (225 sloc) 4.47 KB:root {
     --text-color: white;
 }
 
@@ -23,6 +23,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 1rem 2rem;
+    color: #fff;
 }
 
 .header__nav {
@@ -141,7 +142,7 @@ button {
 }
 
 .container__section:nth-child(1) {
-    background-image: url(/bootcamp/myTesla/css/modle3.png);
+    background-image: url(/bootcamp/myTesla/model-3-main-hero-a-desktop.jpg);
 }
 
 .container__section:nth-child(2) {
@@ -263,3 +264,6 @@ h {
     margin-top: 0.6rem;
     margin-left: 0.6rem;
 }
+
+© 2022 GitHub,
+Inc. Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About
