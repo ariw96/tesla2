@@ -142,7 +142,7 @@ button {
 }
 
 .container__section:nth-child(1) {
-    background-image: url(/bootcamp/myTesla/model-3-main-hero-a-desktop.jpg);
+    background-image: url(model-3-main-hero-a-desktop.jpg);
 }
 
 .container__section:nth-child(2) {
